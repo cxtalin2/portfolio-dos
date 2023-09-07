@@ -1,0 +1,68 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    background-color: mediumpurple;
+    color: #fff;
+    padding: 40px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #007BFF;
+}
+
+/* Estilos para secciones */
+section {
+    padding: 40px;
+}
+
+h2 {
+    color: #333;
+}
+
+/* Estilos para proyectos */
+.proyecto {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    
+}
+
+.proyecto h3 {
+    color: #007BFF;
+}
+
+/* Estilos para el pie de página */
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: #fff;
+}
+
+/* Enlace en el pie de página */
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
